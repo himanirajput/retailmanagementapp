@@ -1,4 +1,8 @@
 # retailmanagementapp
 
-#making changes
-#again making few changes
+
+notifying jira!
+
+making changes
+
+again making few changes
